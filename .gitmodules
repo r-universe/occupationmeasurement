@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "occupationMeasurement"]
+	path = occupationMeasurement
+	url = https://github.com/occupationmeasurement/occupationmeasurement
+	shallow = true
+	registered = true
